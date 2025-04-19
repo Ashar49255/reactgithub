@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.V1 MY LIKE PAGE.
+          Edit <code>src/App.js</code> and save to reload Muhammad Ashar.
         </p>
         <a
           className="App-link"
